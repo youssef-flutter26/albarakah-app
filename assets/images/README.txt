@@ -1,0 +1,1 @@
+Place Albera logo, hero banners and product images here.

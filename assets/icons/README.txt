@@ -1,0 +1,1 @@
+Place app icons and custom SVG/PNG assets here.
